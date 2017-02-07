@@ -3,7 +3,7 @@
 Финальный проект в VKU  
 Приложение для трекинга ваших друзей при создании различных ивентов
 
-[Презентация](https://github.com/kvld/WAYN/files/738966/presentation_wayn_new.pdf)
+[Презентация](https://github.com/kvld/WAYN/raw/master/presentation_wayn_new.pdf)
 
 ## Скриншоты
 <table>
